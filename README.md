@@ -6,5 +6,5 @@
 
 
 # How it was made 
-1) Converted the Douay Rheims Bible into a txt file
-2) Parsed the txt file using python `main.py`
+1) Converted the Douay Rheims Bible into a txt file (`dr_bible.txt`)
+2) Parsed the dr_bible.txt file using python `main.py`
