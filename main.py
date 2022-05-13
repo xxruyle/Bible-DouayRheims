@@ -2,9 +2,7 @@ import json
 
 books = ['Genesis', 'Exodus', 'Leviticus', 'Numbers', 'Deuteronomy', 'Josue', 'Judges', 'Ruth', '1 Kings', '2-Samuel', '1 Kings', '2 Kings', '3 Kings', '4 Kings', '1 Paralipomenon', '2 Paralipomenon', '1 Esdras', '2 Esdras', 'Nehemiah', 'Tobias', 'Judith', 'Esther', 'Job', 'Psalms', 'Proverbs', 'Ecclesiastes', 'Canticles', 'Ecclesiasticus', 'Wisdom', 'Sirach', 'Isaias', 'Jeremias', 'Lamentations', 'Baruch', 'Ezechiel', 'Daniel', 'Osee', 'Joel', 'Amos', 'Abdias', 'Jonas', 'Micheas', 'Nahum', 'Habacuc', 'Sophonias', 'Aggeus', 'Zacharias', 'Malachias', '1 Machabees', '2 Machabees', 'Matthew', 'Mark', 'Luke', 'John', 'Acts', 'Romans', '1 Corinthians', '2 Corinthians', 'Galatians', 'Ephesians', 'Philippians', 'Colossians', '1 Thessalonians', '2 Thessalonians', '1 Timothy', '2 Timothy', 'Titus', 'Philemon', 'Hebrews', 'James', '1 Peter', '2 Peter', '1 John', '2 John', '3 John', 'Jude', 'Apocalypse']
 
-bibledic = {
-
-}
+bibledic = {}
 
 chapter_num_list = [0, 50, 90, 117, 152, 186, 208, 225, 227, 258, 281, 303, 328, 355, 391, 401, 412, 426, 437, 450, 469, 620, 648, 660, 668, 687, 735, 801, 852, 857, 863, 907, 921, 932, 935, 942, 943, 947, 953, 956, 959, 962, 964, 975, 979, 995, 1009, 1037, 1053, 1077, 1097, 1125, 1141, 1156, 1169, 1175, 1181, 1185, 1189, 1194, 1197, 1203, 1207, 1210, 1211, 1224, 1229, 1234, 1237, 1242, 1243, 1244, 1245, 1264, 0]
 
